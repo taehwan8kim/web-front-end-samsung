@@ -1,0 +1,13 @@
+{
+    "recommendations": [
+        "robole.snippets-ranger",
+        "donjayamanne.githistory",
+        "formulahendry.auto-close-tag",
+        "formulahendry.auto-rename-tag",
+        "visualstudioexptteam.vscodeintellicode",
+        "zignd.html-css-class-completion",
+        "pucelle.vscode-css-navigation",
+        "bestvow.css-compressor",
+        "mkaufman.htmlhint",
+    ]
+}
